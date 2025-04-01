@@ -1,5 +1,13 @@
 - 👋 Hi, I’m @Rondvaz11
-- 👀 I’m interested in Python and Data science
+- 👀 I’m interested in
+Deep Learning
+Machine Learning
+Computer vision
+Natural Language Processing
+MLOps
+Generative AI
+Microcontrollers
+Robotics
 - 🌱 I’m currently learning Python and R programming
 - 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me @Rondvaz11
